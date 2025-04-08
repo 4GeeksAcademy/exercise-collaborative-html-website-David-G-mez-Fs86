@@ -1,3 +1,106 @@
 body{
-    background: #BDBDBD;
+    background:whitesmoke;
 }
+
+footer{
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.navbar{
+    background-color: rgb(183, 222, 228);
+    height: 5rem;
+}
+
+.jumbotron{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url('../img/bg.jpg');
+    background-size: cover;
+    height: 30rem;
+}
+ 
+.heading1{
+    display: flex;
+}
+
+.text1{
+    margin-top: 10rem;
+    align-items: center;
+}
+ 
+.title1{
+    margin-top: 10rem;
+    background-color: rgba(226, 207, 153, 0.24);
+    width: 100%;
+    text-align: center;
+}
+
+.parrafo1{
+    margin-top: 5rem;
+    background-color: rgba(226, 207, 153, 0.24);
+    width: 100%;
+    text-align: center;
+}
+
+.img1{
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 400px;
+}
+
+.heading1{
+    padding: 3rem;
+    display: flex;
+}
+
+.heading2{
+    padding: 3rem;
+    display: flex;
+}
+
+.imagen1{
+    margin-bottom: 15rem;
+    padding: 3rem;
+    border-radius: 50%;
+}
+
+.img2{
+    border-radius: 50%;
+    max-width: 350px;
+}
+
+
+.portfolio{
+    padding: 3rem;
+}
+
+.cards{
+    padding: 3rem;
+    display: flex;
+    margin-left: 20rem;
+    gap: 5rem;
+}
+
+.img3{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.contact{
+    padding: 3rem;
+}
+
+.contactContainer{
+    background-color: rgb(183, 222, 228);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3rem;
+    max-width: 800px;
+    max-height: 500px;
+    margin-left: 30rem;
+}
+
+
